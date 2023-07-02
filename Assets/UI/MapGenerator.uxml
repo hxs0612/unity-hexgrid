@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label tabindex="-1" text="current seed: ----------" display-tooltip-when-elided="true" name="SeedLabel" style="width: 200px; height: 30px; color: rgb(255, 255, 255);" />
+    <ui:Button text="Generate" display-tooltip-when-elided="true" name="GenerateButton" style="height: 30px; width: 100px; -unity-text-align: middle-center; background-color: rgba(0, 0, 0, 0.89); color: rgb(255, 255, 255); -unity-font-style: bold; border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px;" />
+</ui:UXML>
